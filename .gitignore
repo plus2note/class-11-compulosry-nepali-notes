@@ -1,0 +1,37 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.user
+*.sln
+*.swp
+*.swo
+
+# Build and compiled files
+node_modules/
+dist/
+build/
+*.log
+*.zip
+*.rar
+*.tar
+*.gz
+*.dll
+*.exe
+
+# Environment files
+.env
+.env.local
+.env.*.local
+.env.test
+.env.production
+
+# Dependency directories
+jspm_packages/
+typings/
+.venv/
+env/
