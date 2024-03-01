@@ -1,17 +1,21 @@
-# 📘 Class 11 Nepali Notes
+# Class 11 Nepali Notes 📘
 
-Welcome to the Nepali-11 repository, your go-to resource for Class 11 Nepali subject notes designed to help you excel in your exams. Whether you're a student, educator, or anyone interested in Nepali literature, these meticulously crafted notes provide comprehensive coverage of the Class 11 Nepali curriculum.
+Welcome to the Class 11 Nepali Notes repository! This open-source project aims to provide comprehensive Nepali language notes and resources for Class 11 students.
 
 ## Table of Contents
 
--  [About](#about)
--  [Chapters](#chapters)
--  [How to Contribute](#how-to-contribute)
--  [License](#license)
+1. [Introduction](#introduction)
+2. [Chapters](#chapters)
+3. [Exercises](#exercises)
+4. [Additional Resources](#additional-resources)
+5. [How to Contribute](#how-to-contribute)
+6. [License](#license)
+7. [Code of Conduct](#code-of-conduct)
+8. [Contact](#contact)
 
-## About
+## Introduction
 
-Nepali-11 is a collaborative effort to compile and share high-quality Nepali notes for Class 11 students. Our mission is to simplify your exam preparation by providing concise and well-organized content.
+This repository is a centralized hub for Class 11 students to access high-quality Nepali language notes covering various chapters and exercises. Whether you are preparing for exams, enhancing language skills, or seeking additional resources, you'll find valuable content here.
 
 > Subject Code : [ Nep. 001 ]
 
@@ -36,24 +40,56 @@ Explore the repository by diving into specific chapters and topics:
 
 Feel free to suggest improvements, report issues, or contribute additional content.
 
+## Chapters
+
+Explore the repository by diving into specific chapters:
+
+-  [Chapter 1: Introduction to Nepali Literature](./chapters/chapter-1.md)
+-  [Chapter 2: Nepali Grammar and Syntax](./chapters/chapter-2.md)
+-  [Chapter 3: Nepali Poetry Analysis](./chapters/chapter-3.md)
+-  [Chapter 4: Nepali Short Stories and Prose](./chapters/chapter-4.md)
+-  [Chapter 5: Nepali Cultural Literature](./chapters/chapter-5.md)
+-  [Chapter 6: Advanced Nepali Language Topics](./chapters/chapter-6.md)
+
+Feel free to explore, learn, and contribute to the content.
+
+## Exercises
+
+Practice your Nepali language skills with exercises:
+
+-  [Exercise 1: Nepali Grammar Practice](./exercises/exercise-1.md)
+-  [Exercise 2: Nepali Creative Writing](./exercises/exercise-2.md)
+-  [Exercise 3: Nepali Literature Analysis](./exercises/exercise-3.md)
+
+## Additional Resources
+
+Explore additional resources in the `references` directory for further reading, articles, and videos.
+
 ## How to Contribute
 
-We welcome contributions to enhance the quality and coverage of these notes. Follow these simple steps:
+We welcome contributions to enhance the quality and coverage of these Nepali language notes. Follow these simple steps:
 
-1. Fork the repository
-2. Create a new branch: `git checkout -b feature/new-chapter`
-3. Make your changes and commit them: `git commit -m 'Add new chapter on [topic]'`
-4. Push to the branch: `git push origin feature/new-chapter`
-5. Submit a pull request
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/new-chapter`.
+3. Make your changes and commit them: `git commit -m 'Add new chapter on [topic]'`.
+4. Push to the branch: `git push origin feature/new-chapter`.
+5. Submit a pull request.
 
-Your contributions are valuable and will be credited. Together, we can create a comprehensive resource for Nepali literature studies.
+Your contributions are valuable and will be credited. Together, we can create a comprehensive resource for Nepali language studies.
 
 ## License
 
 This repository is licensed under the [MIT License](./LICENSE), allowing for widespread use and collaboration.
 
----
+## Code of Conduct
 
-**Note:** If you find any issues, have questions, or need clarification, please open an [issue](../../issues).
+Please review and adhere to our [Code of Conduct](./CODE_OF_CONDUCT.md) to ensure a positive and inclusive community.
 
-Happy learning and best of luck with your Class 11 Nepali exam preparation!
+## Contact
+
+For any questions, feedback, or collaboration inquiries, feel free to reach out:
+
+-  Email: your.email@example.com
+-  Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+
+Happy learning and best of luck with your Class 11 Nepali language studies!
