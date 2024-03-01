@@ -19,6 +19,7 @@ This repository is a centralized hub for Class 11 students to access high-qualit
 
 > Subject Code : [ Nep. 001 ]
 
+<!--
 ## Chapters
 
 Explore the repository by diving into specific chapters and topics:
@@ -38,7 +39,7 @@ Explore the repository by diving into specific chapters and topics:
 | ११     | रारा भ्रमण (दैनिकी)                             | [Exercise](./chapters/chapter-11.md) |
 | १२     | जलस्रोत र ऊर्जा (वक्तृता)                       | [Exercise](./chapters/chapter-12.md) |
 
-Feel free to suggest improvements, report issues, or contribute additional content.
+Feel free to suggest improvements, report issues, or contribute additional content. -->
 
 ## Chapters
 
