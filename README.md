@@ -19,9 +19,20 @@ Nepali-11 is a collaborative effort to compile and share high-quality Nepali not
 
 Explore the repository by diving into specific chapters and topics:
 
--  [Chapter 1: [Title]](./chapters/chapter-1.md)
--  [Chapter 2: [Title]](./chapters/chapter-2.md)
--  ...
+| क्र.स. | शीर्षक                                          | Link                                 |
+| ------ | ----------------------------------------------- | ------------------------------------ |
+| १      | वीर पुर्खा (कविता)                              | [Exercise](./chapters/chapter-1.md)  |
+| २      | गाउँको माया (सामाजिक कथा)                       | [Exercise](./chapters/chapter-2.md)  |
+| ३      | संस्कृतिको नयाँ यात्रा (आत्मपरक निबन्ध)         | [Exercise](./chapters/chapter-3.md)  |
+| ४      | योगमाया (राष्ट्रिय जीवनी)                       | [Exercise](./chapters/chapter-4.md)  |
+| ५      | साथीलाई चिठी (चिठी)                             | [Exercise](./chapters/chapter-5.md)  |
+| ६      | त्यो फेरि फर्कला? (मनोवैज्ञानिक कथा)            | [Exercise](./chapters/chapter-6.md)  |
+| ७      | पर्यापर्यटनका सम्भावना र आयाम (वस्तुपरक निबन्ध) | [Exercise](./chapters/chapter-7.md)  |
+| ८      | लौ आयो ताजा खबर (लघु नाटक)                      | [Exercise](./chapters/chapter-8.md)  |
+| ९      | सफलताको कथा (रिपोर्टाजमूलक रचना)                | [Exercise](./chapters/chapter-9.md)  |
+| १०     | कृषिशालामा एक दिन (संवाद)                       | [Exercise](./chapters/chapter-10.md) |
+| ११     | रारा भ्रमण (दैनिकी)                             | [Exercise](./chapters/chapter-11.md) |
+| १२     | जलस्रोत र ऊर्जा (वक्तृता)                       | [Exercise](./chapters/chapter-12.md) |
 
 Feel free to suggest improvements, report issues, or contribute additional content.
 
