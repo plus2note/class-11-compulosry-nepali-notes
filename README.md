@@ -1,17 +1,6 @@
-# Class 11 Nepali Notes 📘
+# Class 11 Compulosry Nepali Notes 📘
 
-Welcome to the Class 11 Nepali Notes repository! This open-source project aims to provide comprehensive Nepali language notes and resources for Class 11 students.
-
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Chapters](#chapters)
-3. [Exercises](#exercises)
-4. [Additional Resources](#additional-resources)
-5. [How to Contribute](#how-to-contribute)
-6. [License](#license)
-7. [Code of Conduct](#code-of-conduct)
-8. [Contact](#contact)
+Welcome to the Class 11 Compulosry Nepali Notes repository! This open-source project aims to provide comprehensive Nepali language notes and resources for Class 11 students.
 
 ## Introduction
 
@@ -19,78 +8,96 @@ This repository is a centralized hub for Class 11 students to access high-qualit
 
 > Subject Code : [ Nep. 001 ]
 
-<!--
 ## Chapters
 
 Explore the repository by diving into specific chapters and topics:
 
-| क्र.स. | शीर्षक                                          | Link                                 |
-| ------ | ----------------------------------------------- | ------------------------------------ |
-| १      | वीर पुर्खा (कविता)                              | [Exercise](./chapters/chapter-1.md)  |
-| २      | गाउँको माया (सामाजिक कथा)                       | [Exercise](./chapters/chapter-2.md)  |
-| ३      | संस्कृतिको नयाँ यात्रा (आत्मपरक निबन्ध)         | [Exercise](./chapters/chapter-3.md)  |
-| ४      | योगमाया (राष्ट्रिय जीवनी)                       | [Exercise](./chapters/chapter-4.md)  |
-| ५      | साथीलाई चिठी (चिठी)                             | [Exercise](./chapters/chapter-5.md)  |
-| ६      | त्यो फेरि फर्कला? (मनोवैज्ञानिक कथा)            | [Exercise](./chapters/chapter-6.md)  |
-| ७      | पर्यापर्यटनका सम्भावना र आयाम (वस्तुपरक निबन्ध) | [Exercise](./chapters/chapter-7.md)  |
-| ८      | लौ आयो ताजा खबर (लघु नाटक)                      | [Exercise](./chapters/chapter-8.md)  |
-| ९      | सफलताको कथा (रिपोर्टाजमूलक रचना)                | [Exercise](./chapters/chapter-9.md)  |
-| १०     | कृषिशालामा एक दिन (संवाद)                       | [Exercise](./chapters/chapter-10.md) |
-| ११     | रारा भ्रमण (दैनिकी)                             | [Exercise](./chapters/chapter-11.md) |
-| १२     | जलस्रोत र ऊर्जा (वक्तृता)                       | [Exercise](./chapters/chapter-12.md) |
+## Table of Contents
 
-Feel free to suggest improvements, report issues, or contribute additional content. -->
+| क्र.स. | शीर्षक                                                        |
+| ------ | ------------------------------------------------------------- |
+| १      | [वीर पुर्खा (कविता)](#chapter-1)                              |
+| २      | [गाउँको माया (सामाजिक कथा)](#chapter-2)                       |
+| ३      | [संस्कृतिको नयाँ यात्रा (आत्मपरक निबन्ध)](#chapter-3)         |
+| ४      | [योगमाया (राष्ट्रिय जीवनी)](#chapter-4)                       |
+| ५      | [साथीलाई चिठी (चिठी)](#chapter-5)                             |
+| ६      | [त्यो फेरि फर्कला? (मनोवैज्ञानिक कथा)](#chapter-6)            |
+| ७      | [पर्यापर्यटनका सम्भावना र आयाम (वस्तुपरक निबन्ध)](#chapter-7) |
+| ८      | [लौ आयो ताजा खबर (लघु नाटक)](#chapter-8)                      |
+| ९      | [सफलताको कथा (रिपोर्टाजमूलक रचना)](#chapter-9)                |
+| १०     | [कृषिशालामा एक दिन (संवाद)](#chapter-10)                      |
+| ११     | [रारा भ्रमण (दैनिकी)](#chapter-11)                            |
+| १२     | [जलस्रोत र ऊर्जा (वक्तृता)](#chapter-12)                      |
 
-## Chapters
+# Chapters
 
-Explore the repository by diving into specific chapters:
+## <a name="chapter-1">वीर पुर्खा (कविता)</a>
 
--  [Chapter 1: Introduction to Nepali Literature](./chapters/chapter-1.md)
--  [Chapter 2: Nepali Grammar and Syntax](./chapters/chapter-2.md)
--  [Chapter 3: Nepali Poetry Analysis](./chapters/chapter-3.md)
--  [Chapter 4: Nepali Short Stories and Prose](./chapters/chapter-4.md)
--  [Chapter 5: Nepali Cultural Literature](./chapters/chapter-5.md)
--  [Chapter 6: Advanced Nepali Language Topics](./chapters/chapter-6.md)
+[Go to Top](#table-of-contents)
+Content of वीर पुर्खा (कविता)...
 
-Feel free to explore, learn, and contribute to the content.
+## <a name="chapter-2"></a> गाउँको माया (सामाजिक कथा)
 
-## Exercises
+[Go to Top](#table-of-contents)
+Content of गाउँको माया (सामाजिक कथा)...
 
-Practice your Nepali language skills with exercises:
+## <a name="chapter-3"></a> संस्कृतिको नयाँ यात्रा (आत्मपरक निबन्ध)
 
--  [Exercise 1: Nepali Grammar Practice](./exercises/exercise-1.md)
--  [Exercise 2: Nepali Creative Writing](./exercises/exercise-2.md)
--  [Exercise 3: Nepali Literature Analysis](./exercises/exercise-3.md)
+[Go to Top](#table-of-contents)
+Content of संस्कृतिको नयाँ यात्रा (आत्मपरक निबन्ध)...
 
-## Additional Resources
+## <a name="chapter-4"></a> योगमाया (राष्ट्रिय जीवनी)
 
-Explore additional resources in the `references` directory for further reading, articles, and videos.
+[Go to Top](#table-of-contents)
+Content of योगमाया (राष्ट्रिय जीवनी)...
 
-## How to Contribute
+## <a name="chapter-5"></a> साथीलाई चिठी (चिठी)
 
-We welcome contributions to enhance the quality and coverage of these Nepali language notes. Follow these simple steps:
+[Go to Top](#table-of-contents)
+Content of साथीलाई चिठी (चिठी)...
 
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/new-chapter`.
-3. Make your changes and commit them: `git commit -m 'Add new chapter on [topic]'`.
-4. Push to the branch: `git push origin feature/new-chapter`.
-5. Submit a pull request.
+## <a name="chapter-6"></a> त्यो फेरि फर्कला? (मनोवैज्ञानिक कथा)
 
-Your contributions are valuable and will be credited. Together, we can create a comprehensive resource for Nepali language studies.
+[Go to Top](#table-of-contents)
+Content of त्यो फेरि फर्कला? (मनोवैज्ञानिक कथा)...
 
-## License
+## <a name="chapter-7"></a> पर्यापर्यटनका सम्भावना र आयाम (वस्तुपरक निबन्ध)
 
-This repository is licensed under the [MIT License](./LICENSE), allowing for widespread use and collaboration.
+[Go to Top](#table-of-contents)
+Content of पर्यापर्यटनका सम्भावना र आयाम (वस्तुपरक निबन्ध)...
 
-## Code of Conduct
+## <a name="chapter-8"></a> लौ आयो ताजा खबर (लघु नाटक)
 
-Please review and adhere to our [Code of Conduct](./CODE_OF_CONDUCT.md) to ensure a positive and inclusive community.
+[Go to Top](#table-of-contents)
+Content of लौ आयो ताजा खबर (लघु नाटक)...
+
+## <a name="chapter-9"></a> सफलताको कथा (रिपोर्टाजमूलक रचना)
+
+[Go to Top](#table-of-contents)
+Content of सफलताको कथा (रिपोर्टाजमूलक रचना)...
+
+## <a name="chapter-10"></a> कृषिशालामा एक दिन (संवाद)
+
+[Go to Top](#table-of-contents)
+Content of कृषिशालामा एक दिन (संवाद)...
+
+## <a name="chapter-11"></a> रारा भ्रमण (दैनिकी)
+
+[Go to Top](#table-of-contents)
+Content of रारा भ्रमण (दैनिकी)...
+
+## <a name="chapter-12"></a> जलस्रोत र ऊर्जा (वक्तृता)
+
+[Go to Top](#table-of-contents)
+Content of जलस्रोत र ऊर्जा (वक्तृता)...
+
+Feel free to suggest improvements, report issues, or contribute additional content.
 
 ## Contact
 
 For any questions, feedback, or collaboration inquiries, feel free to reach out:
 
--  Email: your.email@example.com
--  Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- Email: info@plus2note.com
+- Twitter: [@plus2note](https://twitter.com/plus2note)
 
 Happy learning and best of luck with your Class 11 Nepali language studies!
