@@ -1,14 +1,12 @@
 # Class 11 Compulosry Nepali Notes 📘
 
-Welcome to the Class 11 Compulosry Nepali Notes repository! This open-source project aims to provide comprehensive Nepali language notes and resources for Class 11 students.
+Welcome to the Class 11 Compulsory Nepali Notes repository! This open-source project is dedicated to providing comprehensive resources for students across different faculties in Class 11, including Nepali, English, Science, Management, and Computer Science.
 
 ## Introduction
 
-This repository is a centralized hub for Class 11 students to access high-quality Nepali language notes covering various chapters and exercises. Whether you are preparing for exams, enhancing language skills, or seeking additional resources, you'll find valuable content here.
+This repository serves as a centralized hub for accessing high-quality notes covering various chapters and exercises. Whether you're preparing for exams, honing language skills, or seeking additional resources, you'll find valuable content tailored to your faculty's curriculum. Dive in and explore the wealth of knowledge that awaits you!
 
 > Subject Code : [ Nep. 001 ]
-
-Welcome to the **Class 11 Compulosry Nepali Notes**. This eBook contains a diverse collection of literary works, ranging from poems to essays and stories. Each piece is thoughtfully written to provide an enriching reading experience.
 
 ## Table of Contents
 
